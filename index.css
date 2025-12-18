@@ -1182,31 +1182,31 @@ ul {
 
 /* Hero elementos después del menú */
 .hero [data-animate-delay="7"] { 
-    transition-delay: 0.2s !important; 
+    transition-delay: 0.0s !important; 
 }
 
 .hero [data-animate-delay="8"] { 
-    transition-delay: 0.3s !important; 
+    transition-delay: 0.1s !important; 
 }
 
 .hero [data-animate-delay="9"] { 
-    transition-delay: 0.4s !important; 
+    transition-delay: 0.2s !important; 
 }
 
 .hero [data-animate-delay="10"] { 
-    transition-delay: 0.5s !important; 
+    transition-delay: 0.3s !important; 
 }
 
 .hero [data-animate-delay="11"] { 
-    transition-delay: 0.6s !important; 
+    transition-delay: 0.4s !important; 
 }
 
 .hero [data-animate-delay="12"] { 
-    transition-delay: 0.7s !important; 
+    transition-delay: 0.5s !important; 
 }
 
 .hero [data-animate-delay="13"] { 
-    transition-delay: 0.8s !important; 
+    transition-delay: 0.6s !important; 
 }
 
 /* ===== RESPONSIVIDAD PARA MÓVIL ===== */
